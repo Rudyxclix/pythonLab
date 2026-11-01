@@ -1,0 +1,19 @@
+{
+  "cities": [
+    {
+      "city": "Bengaluru",
+      "temperature": 28,
+      "humidity": 70
+    },
+    {
+      "city": "Kochi",
+      "temperature": 30,
+      "humidity": 80
+    },
+    {
+      "city": "Delhi",
+      "temperature": 35,
+      "humidity": 45
+    }
+  ]
+}
